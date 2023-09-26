@@ -1,0 +1,17 @@
+# La dirección del contenedor Docker de PostgreSQL
+database.host=localhost
+
+# El puerto del contenedor Docker de PostgreSQL
+database.port=5432
+
+# El nombre de la base de datos
+database.name=mydb
+
+# El usuario de la base de datos
+database.user=myuser
+
+# La contraseña de la base de datos
+database.password=postgres
+
+#Contenedor de postgresql
+
